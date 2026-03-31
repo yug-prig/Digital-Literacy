@@ -8,6 +8,9 @@ Module 1: Digital Literacy Infographic Created an infographic using Canva to exp
 literacy concepts Useful tools for students Safe internet prac ces Professional online presence 
 Email e que e   
 Folder: task-1-presenta on/  
+Folder: task-1-presentation.pdf
+Folder: task-2-portfolio.pdf
+Folder: task-3-code.pdf
 Module 2: Digital Por olio Developed a professional online presence by crea ng profiles on: 
 GitHub (project repository) LinkedIn (professional networking) Kaggle (data science pla orm)  
 Folder: task-2-por olio/  
@@ -18,8 +21,10 @@ Module 4: Email Wri ng & E que e Wrote a formal email Documented do’s and don�
 email communica on   
 Folder: task-4-email/  
 Module 5: Cybercrime Awareness Case study on cyberbullying Safety measures and 
+prevenƟ
+on Personal reflection Folder: casestudy.pdf
 preven on Personal reflec on    Folder: task-5-cybercrime/  
 Conclusion   
 This project helped me improve my digital literacy skills, including technical knowledge, 
 communica on, and awareness about online safety. It provided hands-on experience with tools 
-and pla orms that are useful in both academic and professional environments. 
+and pla orms that are useful in both academic and professional environments.  
